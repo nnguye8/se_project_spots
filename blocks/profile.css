@@ -53,9 +53,11 @@
   margin-left: auto;
   max-width: 288px;
   background-color: #212121;
-  height: auto;
-  width: auto;
+  height: 52px;
+  width: 149px;
   margin-top: auto;
+  border-radius: 8px;
+  color: #fcf5e5;
 }
 
 /* @media screen and (max-width: 1280px) {
