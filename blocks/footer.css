@@ -1,0 +1,14 @@
+footer {
+  top: 1340px;
+  left: 668px;
+  font-weight: 400;
+  font-family: Poppins;
+  font-size: 16px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: #212121;
+  text-align: center;
+  gap: 20px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}

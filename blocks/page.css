@@ -2,11 +2,7 @@
   background-color: #fcf5e5;
   min-height: 100vh;
   font-family: Poppins, Arial, Helvetica, sans-serif;
-  border-width: 1px;
-  border-color: #212121 40%;
-  width: 1280px;
-  height: 970px;
-  margin-top: 310px;
+  /* width: 1280px; */
 }
 .page__section {
   max-width: 1280px;
